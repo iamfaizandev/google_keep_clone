@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iamfaizandev/google_keep_clone/static/css/main.068c548c.css",
+    "main.js": "/iamfaizandev/google_keep_clone/static/js/main.25f202a9.js",
+    "index.html": "/iamfaizandev/google_keep_clone/index.html",
+    "main.068c548c.css.map": "/iamfaizandev/google_keep_clone/static/css/main.068c548c.css.map",
+    "main.25f202a9.js.map": "/iamfaizandev/google_keep_clone/static/js/main.25f202a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.068c548c.css",
+    "static/js/main.25f202a9.js"
+  ]
+}
